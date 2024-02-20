@@ -1,0 +1,17 @@
+[
+  {
+    "name": "kims",
+    "patientCount": 10,
+    "location": "pandalam"
+  },
+  {
+    "name": "amritha",
+    "patientCount": 150,
+    "location": "Ernakulam"
+  },
+  {
+    "name": "ssm",
+    "patientCount": 10,
+    "location": "Trivandrum"
+  }
+]
